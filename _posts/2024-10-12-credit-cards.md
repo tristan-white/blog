@@ -2,7 +2,6 @@
 title: Military Credit Cards
 description: Extreme travel hacking for fun and profit 💳💸
 permalink: cards
-pin: True
 image: https://upgradedpoints.com/wp-content/uploads/2022/09/Amex-Credit-Cards-and-Chase-Credit-Cards-Upgraded-Points-LLC-Large.jpg
 tags: [travel hacking]
 ---

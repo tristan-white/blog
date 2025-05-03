@@ -16,7 +16,9 @@ Here's how to use the template.
 
 ## Make a Railway Account
 
-You'll need a [railway account](https://railway.com?referralCode=j8RjDc) if you don't already have one (it's free).
+You'll need a [railway account](https://railway.com?referralCode=j8RjDc) if you don't already have one.
+
+> Note: If you don't have a Hobby or Pro railway account, you can still use a free trial account to determine if railway is right for you, but you'll need to ensure you have a "Full" trial rather than a "Limited" trial account; see the difference [here](https://docs.railway.com/reference/pricing/free-trial).
 
 ![](/assets/images/fasthtml-railway/create-account.gif)
 
