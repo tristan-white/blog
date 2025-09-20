@@ -10,6 +10,5 @@ Recently I wanted to extend some of nmap's functionality, so I looked at [nmap's
 
 I love nmap, but its docs aren't the best, and getting started with custom nmap lua scripts wasn't as easy I thought it would be.
 
-I made a quickstart guide for self-reference and for anyone else looking to quickly understand how to write simple nmap scripts; you can find it here:
+So, I made a [quickstart guide](https://tristan-white.github.io/nmap-script-tutorial/) for self-reference and for anyone else looking to quickly understand how to write simple nmap scripts.
 
-[tristanwhite.me/nmap-script-tutorial](https://tristanwhite.me/nmap-script-tutorial/)
