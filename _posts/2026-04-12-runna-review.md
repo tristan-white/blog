@@ -1,8 +1,8 @@
 ---
-description: TLDR: It's probably worth the subscription.
+title: A Normie Runner's Review of Runna
+description: "TLDR: It's probably worth the subscription."
+image: /assets/images/canberra_marathon.jpg
 ---
-
-# A Normie Runner's Review of Runna
 
 I was quite on the fence about paying for [Runna](https://www.runna.com/) when I signed up for to train for my thrid marathon; I hope this review will help other decided whether or not to purchase a subscription.
 
