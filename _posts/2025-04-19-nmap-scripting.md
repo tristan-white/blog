@@ -1,7 +1,7 @@
 ---
 title: Nmap Scripting
 description: Quickstart tutorial for writing nmap scripts.
-image: https://www.cybernewsblog.com/wp-content/uploads/2024/07/nmap-1024x640.jpg
+image: /assets/images/nmap.png
 layout: post
 tags: [hacking, coding, reference]
 ---
